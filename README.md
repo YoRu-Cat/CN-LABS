@@ -1,6 +1,6 @@
 # CN Labs
 
-Computer Networks lab work — Semester 5 (24L-0602).
+Computer Networks lab work — Semester 5.
 
 **Artifact:** https://claude.ai/artifact/UKVqBQdrqUmZb4TWCLzBrB
 
